@@ -25,8 +25,9 @@ To use the speech emotion recognition model, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies specified in the requirements.txt file.
 3. Prepare your audio data or use the provided sample dataset.
-4. Run the recognize_emotion.py script, providing the path to the audio file as input.
+4. Run the Prediction.ipynb script, providing the path to the audio file as input.
 5. The model will process the audio and output the predicted emotion category.
+
 Feel free to customize the script or integrate the model into your own applications for real-time emotion recognition.
 
 # Results
