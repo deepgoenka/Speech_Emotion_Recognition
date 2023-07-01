@@ -34,7 +34,7 @@ Feel free to customize the script or integrate the model into your own applicati
 The speech emotion recognition model achieves an accuracy of 95.5% on the evaluation dataset. This high accuracy demonstrates the effectiveness of the model in accurately predicting emotions in speech. However, please note that the model's performance may vary depending on the input data and the specific context.
 
 <p align="center">
-    <img width="500" src="![image](https://github.com/deepgoenka/Speech_Emotion_Recognition/assets/71036685/61a180e1-62ea-4591-9251-e035c6f12b2f)" alt="Minimax Algorithm">
+    <img width="500" src="https://github.com/deepgoenka/Speech_Emotion_Recognition/blob/main/Graphs/Training%20%26%20Testing%20Accuracy.png" alt="Minimax Algorithm">
 </p>
 
 <p align="center">
