@@ -19,7 +19,7 @@ The SER model is trained on a diverse dataset of speech recordings, carefully la
 
 <p align="center">
     <img width="500" src="https://user-images.githubusercontent.com/71036685/236631557-2042f780-aa75-4db3-8092-c66559248a78.png" alt="Minimax Algorithm">
-    <h3>Fig - Dataset</h3>
+    <h5 align="center">Fig - Dataset</h5>
 </p>
 
 # Model Architecture
