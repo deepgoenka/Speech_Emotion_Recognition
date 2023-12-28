@@ -16,7 +16,9 @@ Speech Emotion Recognition is a challenging task in the field of Natural Languag
 
 # Dataset
 The SER model is trained on a diverse dataset of speech recordings, carefully labeled with seven emotion categories: Angry, Stressful, Painful, Prank, Neutral, Sad, and Abusive voices. The dataset contains audio samples from various sources and contexts to ensure a robust and representative training.
+
 ![dataset chart](https://github.com/deepgoenka/Speech_Emotion_Recognition/assets/71036685/c1441d9a-b5c9-42ae-a023-d4512869ebea)
+Fig - Dataset
 
 # Model Architecture
 The Speech Emotion Recognition (SER) model in this repository is composed of four Conv1D layers and two Dense layers. This architecture has been specifically designed for speech emotion recognition tasks and has proven to be effective in achieving a high accuracy of 95.5% on the evaluation dataset.
